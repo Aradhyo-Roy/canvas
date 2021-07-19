@@ -1,0 +1,22 @@
+#radiusowner{
+    background-color: chartreuse;
+    color: darkorange;
+}
+#widthowner{
+    background-color: deepskyblue;
+    color: snow;
+}
+#colourowner{
+    background-color: plum;
+    color: saddlebrown;
+}
+#drawer{
+    border-width: 10px;
+	border-color: black;
+	border-style: solid;
+	background-color: white;
+}
+#cleaner{
+    background-color: springgreen;
+    color: steelblue;
+}
